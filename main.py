@@ -73,7 +73,7 @@ async def chat(msg: str = Form(...)):
     # Convert markdown to HTML
     html = markdown(result)
 
-    # Optional: Sanitize to allow only safe tags
+    # Sanitize to allow only safe tags
     allowed_tags = [
         "b", "i", "em", "strong", "ul", "li", "p", "br"
     ]

@@ -1,11 +1,11 @@
-```markdown
-# 🛒 Danish Shop – AI-Powered E-Commerce Assistant
+
+# Danish Shop – AI-Powered E-Commerce Assistant
 
 **Danish Shop** is an intelligent e-commerce chatbot assistant powered by Google Gemini Pro and AstraDB Vector Store. It supports natural language queries about products and returns meaningful responses by retrieving relevant documents from a vector database.
 
 This project demonstrates a clean modular architecture using **OOP principles**, **LangChain-style chaining**, **FastAPI**, and **Jinja2 frontend integration**.
 
----
+
 
 ## 📌 Features
 
@@ -16,54 +16,16 @@ This project demonstrates a clean modular architecture using **OOP principles**,
 - 🌐 Clean UI using Bootstrap 5
 - 🚀 Easily extensible for future marketplaces
 
----
 
-## 🗂️ Folder Structure
 
-```
 
-├── config/
-│   └── config.yaml          # Configuration settings
-├── data/
-│   ├── data\_ingestion/      # Ingestion pipelines
-│   └── data\_scrapper/       # Raw data scrapers (optional)
-├── prompt\_library/
-│   └── prompt.py            # Prompt templates for LLM
-├── retriever/
-│   └── retrieval.py         # Embedding + vector search logic
-├── static/                  # Images & frontend assets
-├── templates/
-│   └── chat.html            # Chat UI (Jinja2 + Bootstrap)
-├── utils/
-│   ├── config\_loader.py     # YAML config parser
-│   └── model\_loader.py      # Gemini LLM & embed loader
-├── .env                     # API Keys (Gemini, AstraDB, etc.)
-├── main.py                  # FastAPI app entry point
-
-````
-
----
-
-## 🔧 Tech Stack
-
-| Tech           | Purpose                         |
-|----------------|----------------------------------|
-| **FastAPI**    | Web backend & routing            |
-| **Jinja2**     | Templating engine                |
-| **Bootstrap 5**| Responsive UI                    |
-| **Google Gemini Pro** | LLM + embedding generation     |
-| **AstraDB**    | Vector store for product chunks  |
-| **LangChain Core** | RunnableChains, Prompts         |
-
----
-
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/yourusername/danish-shop-ai.git
 cd danish-shop-ai
-````
+
 
 ### 2. Create a Virtual Environment
 
