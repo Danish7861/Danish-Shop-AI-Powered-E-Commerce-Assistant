@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Danish-Shop-AI-Powered-E-Commerce-Assistant
 =======
 
@@ -116,6 +115,3 @@ Bot: Based on customer reviews...
 📧 [support@danishshop.com](mailto:danish.datascientist.com)
 📹 [YouTube Demo](#) 
 
----
-
->>>>>>> master
