@@ -109,6 +109,6 @@ Bot: Based on customer reviews...
 
 **Danish Shahzad**
 📍 Pakistan → Saudi Arabia (remote available)
-📧 [support@danishshop.com](mailto:danish.datascientist.com)
+📧 [danish.datascientist.com](mailto:danish.datascientist.com)
 📹 [YouTube Demo](https://www.youtube.com/@DanishShahzadAI) 
 
