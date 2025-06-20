@@ -1,6 +1,3 @@
-# Danish-Shop-AI-Powered-E-Commerce-Assistant
-=======
-
 # Danish Shop – AI-Powered E-Commerce Assistant
 
 **Danish Shop** is an intelligent e-commerce chatbot assistant powered by Google Gemini Pro and AstraDB Vector Store. It supports natural language queries about products and returns meaningful responses by retrieving relevant documents from a vector database.
@@ -113,5 +110,5 @@ Bot: Based on customer reviews...
 **Danish Shahzad**
 📍 Pakistan → Saudi Arabia (remote available)
 📧 [support@danishshop.com](mailto:danish.datascientist.com)
-📹 [YouTube Demo](#) 
+📹 [YouTube Demo](https://www.youtube.com/@DanishShahzadAI) 
 
